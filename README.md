@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=therajbali&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=rajbalii&label=Profile%20views&color=0e75b6&style=flat) 
 
 ## About Me
 
@@ -18,8 +18,8 @@ I'm a passionate software developer from India with a focus on building scalable
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therajbali)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/therajbali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbalii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajbalii)
 
 ## Tech Stack
 
